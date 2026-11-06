@@ -50,9 +50,7 @@ PivotCharts and interactive slicers were used to present and explore the results
 1. Policyholders in the obese BMI category had the highest average medical expense at $15,572.04.
 2. The Southeast Region had the highest average medical expense at $14,735.41.
 3. The 56+ Age group had the highest average premium at $553.40.
-4. Male policyholders had a higher average premium than female
-   policyholders.
-5. Male policyholders had a higher average premium at 272.48, compared with 253.46 for female policyholders.
+4. Male policyholders had a higher average premium at 272.48, compared with 253.46 for female policyholders.
 
 ## Limitations
 - The analysis describes patterns within this dataset and does not establish cause-and-effect relationships.
